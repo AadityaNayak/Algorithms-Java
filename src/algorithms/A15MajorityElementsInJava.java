@@ -28,7 +28,7 @@ public class A15MajorityElementsInJava {
                 for( j = i; j< size && arr[j] == arr[i] ; j++){
                     count++;
                 }
-                i = j;
+                i = j-1;
                 if(count > size/2){
                     found = true;
                     target = arr[i-1];

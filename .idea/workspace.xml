@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86565f32-61c7-4d83-a06d-f879d20dcab4" name="Changes" comment="Shifted project ide to intellij">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/A13PrefixSuffix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/A14LeadersInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/A15MajorityElementsInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/A16LexicographicalPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/A15MajorityElementsInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/A15MajorityElementsInJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +41,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="A9BoothMultiplication" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.A9BoothMultiplication" />
+  <component name="RunManager" selected="Application.A16LexicographicalPalindrome">
+    <configuration name="A16LexicographicalPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.A16LexicographicalPalindrome" />
       <module name="PLA_Course_Summer_sem" />
       <extension name="coverage">
         <pattern>
@@ -56,6 +55,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="algorithms.A13PrefixSuffix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.A13PrefixSuffix" />
+      <module name="PLA_Course_Summer_sem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="algorithms.A15MajorityElementsInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.A15MajorityElementsInJava" />
+      <module name="PLA_Course_Summer_sem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A16LexicographicalPalindrome" />
+        <item itemvalue="Application.algorithms.A15MajorityElementsInJava" />
+        <item itemvalue="Application.algorithms.A13PrefixSuffix" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
