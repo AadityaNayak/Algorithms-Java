@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86565f32-61c7-4d83-a06d-f879d20dcab4" name="Changes" comment="Shifted project ide to intellij">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/A19MoveHyphenToBeginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/A20WeightedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/A21ManacherAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classconcepts/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/A22Maneuvering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/A23UniquePermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/A24StringCombination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +110,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A21ManacherAlgorithm" />
         <item itemvalue="Application.algorithms.A20WeightedString" />
         <item itemvalue="Application.algorithms.A19MoveHyphenToBeginning" />
         <item itemvalue="Application.algorithms.A18QuickSort" />
