@@ -24,7 +24,7 @@ public class A23UniquePermutations {
 
             // Proceed further for str[i] only if it
             // doesn't match with any of the characters
-            // after str[index]
+            // after str[index]--
             boolean check = shouldSwap(str, index, i);
             if (check) {
                 swap(str, index, i);
@@ -48,6 +48,7 @@ public class A23UniquePermutations {
         char str[] = x.toCharArray();
         int n = str.length;
         findPermutations(str, 0, n);
+
     }
 
 }

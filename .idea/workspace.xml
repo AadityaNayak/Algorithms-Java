@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86565f32-61c7-4d83-a06d-f879d20dcab4" name="Changes" comment="Shifted project ide to intellij">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/A22Maneuvering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/A23UniquePermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/A24StringCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/A25JosephusProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/A26RatInAMaze.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/A23UniquePermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/A23UniquePermutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +42,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.A21ManacherAlgorithm">
-    <configuration name="A21ManacherAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.A21ManacherAlgorithm" />
+  <component name="RunManager" selected="Application.A25JosephusProblem">
+    <configuration name="A25JosephusProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.A25JosephusProblem" />
       <module name="PLA_Course_Summer_sem" />
       <extension name="coverage">
         <pattern>
@@ -110,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A25JosephusProblem" />
         <item itemvalue="Application.algorithms.A20WeightedString" />
         <item itemvalue="Application.algorithms.A19MoveHyphenToBeginning" />
         <item itemvalue="Application.algorithms.A18QuickSort" />
