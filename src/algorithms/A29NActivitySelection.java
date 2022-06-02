@@ -31,7 +31,7 @@ public class A29NActivitySelection {
 
         for(int i = 0; i<size; i++){
             if(i == 0){
-                System.out.print(e[i].name + " ");
+                System.out.print(e[i].name + 1+ " ");
             }
             for(int j = i + 1; j<size; j++){
                 if(e[j].start >= e[i].end){
