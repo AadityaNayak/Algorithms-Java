@@ -2,7 +2,7 @@ package algorithms;
 
 import java.util.Scanner;
 
-public class A10lockSwapAlgorithm {
+public class A10BlockSwapAlgorithm {
 	
 		public static void swap(int arr[], int a, int b, int r){ 
 	        for(int i = 0 ; i < r ; i++){ 
